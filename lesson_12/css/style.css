@@ -1,0 +1,69 @@
+	/*Секция с формой и видео*/
+	.first-section-header span {
+		display: block;
+
+	}
+
+	.first-section-header {
+		font-size: 24px;
+		line-height: 2;
+		margin: 80px auto;
+
+	}
+
+	.form {
+		border: 5px solid #3c3ada;
+		padding: 45px 20px;
+		height: 300px;
+	}
+
+	.form-header {
+		font-size: 20px;
+		font-weight: 900;
+		margin-bottom: 30px;
+	}
+
+	.form input {
+		margin: 10px auto;
+	}
+
+	.btn {
+		background-color: #3c3ada;
+		height: 65px;
+
+	}
+	.video {
+		margin-bottom: 10px;
+	}
+
+	/*Секция с преимуществами*/
+
+	.features-header, .image-header {
+		font-size: 24px;
+		font-weight: 700;
+		margin-top: 140px;
+		margin-bottom: 90px;
+	}
+
+	.features {
+		margin-bottom: 60px;
+	}
+
+	.feature-box {
+		height: 200px;
+	}
+
+	p {
+		margin-top: 20px;
+		font-size: 16px;
+		font-weight: 700;
+	}
+
+	.first-four-pictures, .second-four-pictures {
+		margin: 10px auto;
+		height: 280px;
+	}
+
+
+
+
