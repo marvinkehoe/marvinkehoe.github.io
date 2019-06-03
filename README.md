@@ -1,2 +1,2 @@
-# marvinkehoe.github.io
+# Marvin Kehoe
 Уроки по верстке
