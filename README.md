@@ -11,4 +11,4 @@
 
 [Урок 20](https://marvinkehoe.github.io/Lesson_20/ "Урок 20") - Псевдоклассы
 
-[Урок 21](https://marvinkehoe.github.io/Lesson_21/ "Урок 21") - Адаптация первой секции
+[Урок 21](https://marvinkehoe.github.io/lesson_21/ "Урок 21") - Адаптация первой секции
